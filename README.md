@@ -1,0 +1,2 @@
+# lucky
+Lucky NFT project
